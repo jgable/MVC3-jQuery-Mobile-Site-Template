@@ -1,0 +1,3 @@
+﻿This site template was created by Jacob Gable (jacob.gable[at]gmail.com) and is licensed under the Microsoft Public License (Ms-PL).
+
+You are free to use this for commercial or personal projects without attribution or passing along the license.

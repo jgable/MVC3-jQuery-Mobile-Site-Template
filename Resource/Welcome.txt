@@ -1,0 +1,9 @@
+Welcome to your new jQuery Mobile Site
+
+Some Notes:
+- This project uses AjaxMin Build Tasks (http://ajaxmin.codeplex.com/) to combine and concatenate the JS and CSS files in the css/combined and js/combined directories.  The css/style.css and js/script.css are automagically created on each build, so don't bother editing them.
+- Based on a setting in the Global.asax.cs file we reference the minified or just combined versions of CSS and JS files.  If you want to override which version is referenced you can use the IsDebug property in the MvcApplication class to manipulate it.
+
+For more information about jQuery Mobile visit http://jquerymobile.com.
+
+This template was created with love, some unicorns and a touch of glitter by the Chicago based Software Developer / Amateur Philosopher Jacob Gable (jacob.gable[at]gmail.com).

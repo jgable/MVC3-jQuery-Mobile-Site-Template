@@ -1,0 +1,17 @@
+jQuery Mobile Site	
+
+A simple site template for creating MVC 3 Razor Syntax jQuery Mobile Sites.  References the latest builds of jQuery Mobile javascript and CSS.
+
+Icon and Preview are 172px iphone images in site root.
+
+Welcome.txt in Resources
+
+JQueryMobileTemplate.7b8504c1-488c-48bc-ba4a-c0853908ffe6
+
+jQuery Mobile Site
+
+Ms-PL License File in Resources
+ 
+https://github.com/jgable/MVC3-jQuery-Mobile-Site-Template/wiki/Welcome
+
+All Builds VS 2010
